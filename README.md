@@ -3,7 +3,7 @@
 ကျွန်တော့် Python လေ့လာရေး မှတ်စုများ။
 အောက်က badge ကိုနှိပ်ရင် browser ထဲမှာ တိုက်ရိုက် run လို့ရပါတယ်။
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ppz/python-learning/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/falone123/python-learning/HEAD)
 
 ## သင်ခန်းစာများ
 1. `01-basics.ipynb` — print, variables, data types
