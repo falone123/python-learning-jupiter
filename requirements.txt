@@ -1,0 +1,21 @@
+# Data Analysis & Manipulation (ဒေတာ ခွဲခြမ်းစိတ်ဖြာရန်)
+numpy
+pandas
+scipy
+
+# Data Visualization (ဂရပ်ဖစ်နှင့် ပုံများဆွဲရန်)
+matplotlib
+seaborn
+plotly
+
+# Web Scraping & APIs (ဝက်ဘ်ဆိုက်မှ ဒေတာယူရန်)
+requests
+beautifulsoup4
+
+# Machine Learning Basics (အခြေခံ AI နှင့် ML စမ်းသပ်ရန်)
+scikit-learn
+
+# Utilities & Excel Support (Excel ဖိုင်များ ဖတ်ရန်/ရေးရန်)
+openpyxl
+xlrd
+pillow
